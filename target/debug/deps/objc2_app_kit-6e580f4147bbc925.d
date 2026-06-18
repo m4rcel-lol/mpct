@@ -1,0 +1,10 @@
+/Users/m5rcel/Documents/mpct/target/debug/deps/objc2_app_kit-6e580f4147bbc925.d: /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/lib.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/mod.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSImage.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboard.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboardItem.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/image.rs
+
+/Users/m5rcel/Documents/mpct/target/debug/deps/libobjc2_app_kit-6e580f4147bbc925.rmeta: /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/lib.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/mod.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSImage.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboard.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboardItem.rs /Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/image.rs
+
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/lib.rs:
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/mod.rs:
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSImage.rs:
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboard.rs:
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/generated/NSPasteboardItem.rs:
+/Users/m5rcel/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-app-kit-0.3.2/src/image.rs:
